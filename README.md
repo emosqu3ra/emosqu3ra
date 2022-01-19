@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Estephanie
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and Command Line
+- 👀 I’m interested in becoming a software engineer 
+- 🌱 I’m currently in a bootcamp where I am learning JavaScript, HTML, CSS, Command Line, Git, GitHub, Bootstrap, DOM Manipulation, etc.
 - 💞️ I’m looking to collaborate on projects that can build my portfolio as a full stack web developer
 - 📫 You can reach me at estephanie.lee@gmail.com
 
